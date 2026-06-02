@@ -1,5 +1,4 @@
 # EdgeAI @ IFX
-# Edge AI & DEEPCRAFT — Infineon GitHub Entry Point
 
 This page is the entry point for Edge AI development resources on Infineon GitHub.
 
